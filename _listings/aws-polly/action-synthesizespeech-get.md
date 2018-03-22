@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=SynthesizeSpeech&k=1:
+  /?Action=SynthesizeSpeech:
     get:
       summary: ' Synthesize Speech '
       description: Synthesizes UTF-8 input, plain text or SSML, to a stream of bytes
