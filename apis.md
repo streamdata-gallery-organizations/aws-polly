@@ -1,10 +1,10 @@
 ---
 name: Streadata.io API Gallery - AWS Polly
-description: This is a repository of  APIs, self-contained as a Github repository,
+description: This is a repository of aws polly APIs, self-contained as a Github repository,
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/aws-polly.png
 created: "2018-02-24"
-modified: "2018-05-21"
+modified: "2018-05-24"
 url: http://aws-polly.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
