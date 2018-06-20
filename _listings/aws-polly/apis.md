@@ -19,10 +19,10 @@ description: Amazon Polly is a service that turns text into lifelike speech. Pol
   everywhere.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Polly
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-polly/master/_listings/aws-polly/apis.md
 specificationVersion: "0.14"
 apis:
