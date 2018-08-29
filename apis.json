@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AWS Polly",
+	"description": "This is a repository of aws polly APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/aws-polly.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://aws-polly.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AWS Polly",
+			"x-api-slug": "aws-polly",
+			"description": "Amazon Polly is a service that turns text into lifelike speech. Polly lets you create applications that talk, enabling you to build entirely new categories of speech-enabled products. Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. Polly includes 47 lifelike voices spread across 24 languages, so you can select the ideal voice and build speech-enabled applications that work in many different countries.Amazon Polly delivers the consistently fast response times required to support real-time, interactive dialog. You can cache and save Polly&rsquo;s speech audio to replay offline or redistribute. And Polly is easy to use. You simply send the text you want converted into speech to the Polly API, and Polly immediately returns the audio stream to your application so your application can play it directly or store it in a standard audio file format, such as MP3.With Polly, you only pay for the number of characters you convert to speech, and you can save and replay Polly&rsquo;s generated speech. Polly&rsquo;s low cost per character converted, and lack of restrictions on storage and reuse of voice output, make it a cost-effective way to enable Text-to-Speech everywhere.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg",
+			"humanURL": "https://aws.amazon.com/polly/",
+			"baseURL": ":///",
+			"tags": "AWS Polly",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-polly/master/_listings/aws-polly/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AWS Polly",
+	"include": [
+		{
+			"name": "AWS Polly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-polly/master/_listings/aws-polly/apis.yaml"
+		}
+	]
+}
